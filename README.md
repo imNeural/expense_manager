@@ -29,7 +29,7 @@ To run this project locally on your machine, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/imneural/expense_manager.git](https://github.com/imneural/expense_manager.git)
-   cd expense-manager-pro
+   cd expense_manager
 
 2. Create a virtual environment (Optional but recommended):
    python -m venv venv
