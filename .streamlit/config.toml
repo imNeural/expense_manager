@@ -1,0 +1,19 @@
+[theme]
+# The main accent color (e.g., for buttons and sliders) - a premium SaaS blurple
+primaryColor = "#636EFA"
+
+# The main background color
+backgroundColor = "#0E1117"
+
+# The background color for sidebars and input widgets
+secondaryBackgroundColor = "#1F2937"
+
+# The text color
+textColor = "#F3F4F6"
+
+# The font family. Options: "sans serif", "serif", "monospace"
+font = "sans serif"
+
+[client]
+# Hides the red "Running..." indicator in the top right
+showErrorDetails = false

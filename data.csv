@@ -1,0 +1,14 @@
+Receipt_Date,Department,Invoice_ID,Billed_Amount
+2026-10-01,Engineering,INV-1001,500.00
+10/05/2026, Marketing ,INV-1002,"$1,250.50"
+12-Oct-2026,Sales,INV-1003,"€850.00"
+"October 15, 2026",HR,INV-1004,"£300"
+,Engineering,INV-1005,450.25
+Pending_Review,Marketing,INV-1006,100.00
+2026-10-22,Sales,INV-1007,
+2026-10-25,,INV-1008,75.00
+2026-10-28,engineering,INV-1009,99.99
+2026-10-30,IT Support,999-867-5309,250.00
+2026-11-01, Marketing,INV-1011,400.00
+11-03-2026,Sales,INV-1012,
+11,HR,INV-1013,150.00
